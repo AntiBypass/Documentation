@@ -1,4 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [About](README.md)
+
+## API
+
+* [Pop-up](api/popup.md)
+* [Validate](api/validate.md)
+
+---
+
+* [Main Website](https://antibypass.eu)
 
